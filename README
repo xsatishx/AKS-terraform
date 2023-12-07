@@ -1,0 +1,6 @@
+# 
+# ARM ACCESS KEY for storage account where state files are stored and ARM_CLIENT_SECRET which is the 
+# service pricipal secret are stored as environment variables outside of this folder.
+# the environment variables are used in 02-providers.tf
+# $env:ARM_ACCESS_KEY = "ENTER YOUR VALUE HERE"
+# $env:ARM_CLIENT_SECRET = "ENTER YOUR VALUE HERE"
